@@ -1,0 +1,433 @@
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: High Entropy[0m
+[92mDate: 2021-03-22 18:31:03[0m
+[92mHash: 1f6df8b40fec6b85541309e8de83730f084d069b[0m
+[92mFilepath: fcm.json[0m
+[92mBranch: origin/master[0m
+[92mCommit: initial commit
+[0m
+@@ -0,0 +1,12 @@
++{
++  "type": "service_account",
++  "project_id": "necommerce",
++  "private_key_id": "[93m65e9b7a98605eee0322f233b783d17ed0893c0fa[0m",
++  "private_key": "[93mMIIEpQIBAAKCAQEA5UypMmzmZOv8NZLE/HXLVBkN1fCvyASkhURThMoUQtXtQZMh[0m\[93mnnFLVMLEEX4xgTxqaU/BRU3cXy7OU70sRGouoEi9XKbS8vyQbYhLxNFy0uFBJeluj[0m\[93mntdecWZqn+uRJWS7rhcBk6K/j0BiSazmpgygVLIHv3UhhrP9KICgRNidhbFtBMEMF[0m\[93mns0CrBQDF5RjEh4REMxidZAGhks28a+QxqfN0nF46G69nV5ltFxGnc1uckKeI2/Dx[0m\[93mn3g7iZ2WapBnrr0mu9S9vdAkRL3QXQ2Ji+4yL7qLDyu6Ist5LQ9pEB/n+WY/blBiE[0m\[93mnWJGZFg4PwfOqseog5T/h5KMoZMTqx3oCdEP7uQIDAQABAoIBAQDHuk/CoYLJs5g7[0m\[93mnHf3BneUe+rfHe1/RzOF1R3+sMc0WLnr73GmxXaFfSUFy7LZTEOwOY0yjdB/hCiqX[0m\[93mniP577dvXAy9cH5csswm7Ep7RKlMsHJr0HnBqC0Wf8wuQiVqueSUjmuMKn3LDJzQa[0m\[93mne96AZOCUpRXG3K5f3vq1KdFcJ08/7lJb+15bBmkxG1s6Zxy7NHfwqbp8cC1C1aUd[0m\[93mnzUMgYbhqSTZM/T0xsZ/rJymcdtf8XkJmYqeMLeVxBHAGLZcEx1RHhkxpPXexquy5[0m\[93mn3ocP0ZoQWRYo5pLolHBNbLkKsSXXD9K9BUX137r4zhRDLbcy5ET3sUYz6SoZdYQM[0m\[93mnTMBeK8UBAoGBAPxOOEAPqcW0PHy98o1w8WNgLgYwjIa361VLI66EW1yOl2qH2c1H[0m\[93mnPGUvCcfMGJj2Oj9I6abNzPbscZgBtSPasMGwa3VL8lRnFz6HKnREkMaupxlBE4g/[0m\[93mnIHgdTkPsvR/P1IQ/0tpEj0rhbOIXrrsO5paBIu1HsljEU75wPdSyxA9hAoGBAOio[0m\[93mnM6I2wCzL99M4NPpKMumyvcRYm+AG2esWiNZIaavAi6cToeTstk1IgHfuniR0vgF0[0m\[93mnnlry0IMSVFHx9vCaLPqsbpwYbemnhQWYUrXBTKd6L++Jpn9kDZLscMk/6DG9HyU9[0m\[93mn90nDVWC4SDNHUo3O63x0CoZHcPYTCrCxnzQPvINZAoGBAM3RqUVpAZ+MFkPUWAdV[0m\[93mn+TSOAz19YUWMx2c+8o6s3jK1B4QZ6mzxDa2lH59jOTWet4lkm2Y9QFS2MTxFOFVV[0m\[93mnUxfOKPr4x2he6LFTZiiOvmO1mg6Z7asZhA04Kt5yQx2uVrjDr+fqQdJd7orJsvpZ[0m\[93mnf3WLRsi10iFjlsUlnuriIdpBAoGAZoVQE2gK8PKEZ0f6WFx/6OlBpBbjwSljt6s7[0m\[93mnaymHnw5+u4X0Lht9DbsoGTFF8Iyc+ak46pza8xcNnvp/tXBK5786EoDVVkPiYx/H[0m\[93mnOp5ON/Ko0uYWP0aIkLitzpDhsaFD6zZOFOwFYFR0RFxmbWTD8hh0Vs1+YoDrkgcD[0m\[93mnP367tCkCgYEAgvB8vbtjtbyQhq1Gf6VlMdusz3wKQI7H7BhJ5IUtDseo4uRZ6EvW[0m\[93mnNMvbg5y3RI/vy0d7PWmHKXZ+TJTluU9RHzqz+Z/nRplMi/manJfoZn8jEVBshSGQ[0m\[93mn+5bqCsg+6yu3cntS7VsuIYbySrjYsOMGLZ1S2URNdyo0rWypfeNjXxY=[0m",
++  "client_email": "firebase-adminsdk@necommerce.iam.gserviceaccount.com",
++  "client_id": "[93m925064281050233487551[0m",
++  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
++  "token_uri": "https://oauth2.googleapis.com/token",
++  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
++  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-necommerce.iam.gserviceaccount.com"
++}
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: High Entropy[0m
+[92mDate: 2021-03-22 18:31:03[0m
+[92mHash: 1f6df8b40fec6b85541309e8de83730f084d069b[0m
+[92mFilepath: src/test/resources/requests.http[0m
+[92mBranch: origin/master[0m
+[92mCommit: initial commit
+[0m
+@@ -0,0 +1,399 @@
++### Регистрация без avatar'ки
++
++POST http://localhost:9999/api/users/registration
++Content-Type: application/x-www-form-urlencoded
++
++login=vasya&pass=secret&name=NoName
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.token !== undefined, "Token not present in response");
++  client.global.set("vasya_token", response.body.token)
++});
++%}
++
++### Регистрация с avatar'кой
++
++POST http://localhost:9999/api/users/registration
++Content-Type: multipart/form-data; boundary=WebAppBoundary
++
++--WebAppBoundary
++Content-Disposition: form-data; name="login"
++Content-Type: text/plain
++
++petya
++--WebAppBoundary
++Content-Disposition: form-data; name="pass"
++Content-Type: text/plain
++
++password
++--WebAppBoundary
++Content-Disposition: form-data; name="name"
++Content-Type: text/plain
++
++Newbie
++--WebAppBoundary
++Content-Disposition: form-data; name="file"; filename="image.png"
++
++< ./avatar.jpg
++--WebAppBoundary--
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.token !== undefined, "Token not present in response");
++  client.global.set("petya_token", response.body.token)
++});
++%}
++
++### Аутентификация (sad path)
++
++POST http://localhost:9999/api/users/authentication
++Content-Type: application/x-www-form-urlencoded
++
++login=vasya&pass=very-secure-password
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 400, "Response status is not 400");
++});
++%}
++
++### Аутентификация
++
++POST http://localhost:9999/api/users/authentication
++Content-Type: application/x-www-form-urlencoded
++
++login=petya&pass=password
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.token !== undefined, "Token not present in response");
++  // общий токен юзера для последующих запросов (если нужен конкретный - используйте vasya_token или petya_token)
++  client.global.set("token", response.body.token)
++});
++%}
++
++### Аутентификация под админом (пароль берите из логов)
++
++POST http://localhost:9999/api/users/authentication
++Content-Type: application/x-www-form-urlencoded
++
++login=admin&[93mpass=5OKn4ZevXxCWHbEHGejhYnLSksTJ6uAzJ5t76WXe1JTc[0m_gxOlwS7bpAjsm7DT9-S8TrochsbQXmDt995CSZPLA
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.token !== undefined, "Token not present in response");
++  client.global.set("admin_token", response.body.token)
++});
++%}
++
++### Создание менеджера
++
++POST http://localhost:9999/api/users/creation
++Authorization: {{admin_token}}
++Content-Type: application/x-www-form-urlencoded
++
++login=manager&pass=secret&name=Manager&avatar=netology.jpg&roles=ROLE_MANAGER
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++});
++%}
++
++### Аутентификация под менеджером
++
++POST http://localhost:9999/api/users/authentication
++Content-Type: application/x-www-form-urlencoded
++
++login=manager&pass=secret
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.token !== undefined, "Token not present in response");
++  client.global.set("manager_token", response.body.token)
++});
++%}
++
++### Получение списка продуктов
++
++GET http://localhost:9999/api/products
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++});
++%}
++
++### Создание нового продукта (id = 0)
++
++POST http://localhost:9999/api/products
++Authorization: {{admin_token}}
++Content-Type: application/json
++
++{
++  "id": 0,
++  "name": "iPhone",
++  "content": "Прекрасный новый iPhone от Нетологии",
++  "price": 120000,
++  "published": 0,
++  "likedByMe": false,
++  "likes": 0,
++  "attachment": {
++    "url": "netology.jpg",
++    "type": "IMAGE"
++  }
++}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.id === 7, "Generated id not 1");
++});
++%}
++
++### Получение продукта по id
++
++GET http://localhost:9999/api/products/7
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.id === 7, "id not 1");
++});
++%}
++
++### Обновление продукта (id != 0)
++
++POST http://localhost:9999/api/products
++Authorization: {{admin_token}}
++Content-Type: application/json
++
++{
++  "id": 7,
++  "name": "iPhone (обновлённый)",
++  "content": "Прекрасный новый iPhone от Нетологии",
++  "price": 120000,
++  "published": 1616400167,
++  "likedByMe": false,
++  "likes": 0
++}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.id === 7, "id changed");
++  client.assert(response.body.name === "iPhone (обновлённый)", "Name not updated");
++});
++%}
++
++### Like продукта
++
++POST http://localhost:9999/api/products/7/likes
++Authorization: {{token}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++});
++%}
++
++### Получение продукта по id
++
++GET http://localhost:9999/api/products/7
++Authorization: {{token}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.likes === 1, "likes not incremented");
++  client.assert(response.body.likedByMe === true, "likedByMe didn't changed");
++});
++%}
++
++### Дизлайк продукта
++
++DELETE http://localhost:9999/api/products/7/likes
++Authorization: {{token}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++});
++%}
++
++### Получение продукта по id
++
++GET http://localhost:9999/api/products/7
++Authorization: {{token}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.likes === 0, "likes decremented");
++  client.assert(response.body.likedByMe === false, "likedByMe didn't changed");
++});
++%}
++
++### Удаление продукта по id
++
++DELETE http://localhost:9999/api/products/7
++Authorization: {{admin_token}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++});
++%}
++
++### Создание нового продукта (id = 0)
++
++POST http://localhost:9999/api/products
++Authorization: {{admin_token}}
++Content-Type: application/json
++
++{
++  "id": 0,
++  "name": "MacBook",
++  "content": "Прекрасный новый MacBook от Нетологии",
++  "price": 180000,
++  "published": 0,
++  "likedByMe": false,
++  "likes": 0,
++  "attachment": {
++    "url": "netology.jpg",
++    "type": "IMAGE"
++  }
++}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.id === 8, "Generated id not 2");
++});
++%}
++
++### Получение несуществующего продукта
++
++GET http://localhost:9999/api/products/999
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 404, "Response status is not 404");
++});
++%}
++
++### Получение аватарки
++
++GET http://localhost:9999/netology.jpg
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "image/jpeg", "Invalid mime type");
++});
++%}
++
++### Загрузка изображения
++
++POST http://localhost:9999/api/media
++Authorization: {{token}}
++Content-Type: multipart/form-data; boundary=WebAppBoundary
++
++--WebAppBoundary
++Content-Disposition: form-data; name="file"; filename="image.png"
++
++< ./image.png
++--WebAppBoundary--
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(/[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}\.(png|jpg)/.test(response.body.id), "Invalid mime type");
++  client.global.set("mediaId", response.body.id)
++});
++%}
++
++###
++GET http://localhost:9999/{{mediaId}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "image/png", "Invalid mime type");
++});
++%}
++
++### Создание заказа ###
++
++POST http://localhost:9999/api/orders
++Authorization: {{token}}
++Content-Type: application/x-www-form-urlencoded
++
++productId=2&phone=79999999999
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++});
++%}
++
++### Просмотр заказа ###
++
++GET http://localhost:9999/api/orders/1
++Authorization: {{token}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++});
++%}
++
++### Просмотр моих заказов ###
++
++GET http://localhost:9999/api/orders/my
++Authorization: {{token}}
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++});
++%}
++
++### Изменение статуса заказ менеджером ###
++
++POST http://localhost:9999/api/orders/1/status
++Authorization: {{manager_token}}
++Content-Type: application/x-www-form-urlencoded
++
++status=COMPLETE
++
++> {%
++client.test("Request executed successfully", function() {
++  client.assert(response.status === 200, "Response status is not 200");
++  client.assert(response.contentType.mimeType === "application/json", "Expected 'application/json' but received '" + response.contentType.mimeType + "'");
++  client.assert(response.body.status === "COMPLETE", "Status not changed");
++});
++%}
+
+~~~~~~~~~~~~~~~~~~~~~
