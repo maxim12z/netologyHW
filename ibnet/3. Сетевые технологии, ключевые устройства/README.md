@@ -1,1 +1,1 @@
-[HW](https://github.com/netology-code/ibnet-homeworks/tree/v2/01_intro)
+[задание](https://github.com/netology-code/ibnet-homeworks/tree/v2/01_intro)

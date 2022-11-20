@@ -1,4 +1,4 @@
-[HW](https://github.com/netology-code/ibnet-homeworks/tree/v2/02_ip)
+[задание](https://github.com/netology-code/ibnet-homeworks/tree/v2/02_ip)
 
 
 ## К задаче 1
