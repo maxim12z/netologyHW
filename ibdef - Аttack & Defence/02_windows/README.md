@@ -31,3 +31,6 @@ Students2
 
 ![3-2.png](3-2.png)
 
+Проверка от пользователя: __student1__
+
+![itog.png](itog.png)
