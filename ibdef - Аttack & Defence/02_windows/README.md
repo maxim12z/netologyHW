@@ -1,7 +1,7 @@
-## Домашнее задание к занятию «Windows Hardening»
+# Домашнее задание к занятию «Windows Hardening»
 [задание](https://github.com/netology-code/ibdef-homeworks/tree/master/02_windows)
 
-### Задание 1
+## Задание 1
 
 Student1
 ![student1.png](student1.png)
@@ -10,7 +10,7 @@ Student1
 Student2
 ![student2.png](student2.png)
 
-### Задание 2
+## Задание 2
 
 Students1
 ![F-Stud1.png](F-Stud1.png)
@@ -21,7 +21,7 @@ Students2
 Все остальные
 ![F-Everyone.png](F-Everyone.png)
 
-### Задание 3
+## Задание 3
 
 Запрет на доступ __Students1__
 
